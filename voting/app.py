@@ -9,7 +9,7 @@ import logging
 import signal
 import sys
 
-optionA = "Football"
+optionA = "Futball"
 optionB = "Soccer"
 name = optionA + " VS " + optionB
 
